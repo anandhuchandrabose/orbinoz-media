@@ -1,6 +1,8 @@
 // src/components/Why.js
 
 import React from 'react';
+import 'lord-icon-element'; 
+// import { Player } from '@lordicon/react';
 
 const cardData = [
   {

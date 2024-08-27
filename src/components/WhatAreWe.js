@@ -57,7 +57,7 @@ const WhatAreWe = () => {
             <div className="bottom">
               <div className="content">
                 <span className="name text-center">ORBINOZ</span>
-                <span className="about-me">Discover, Engage, Connect Our Media Experience Uniquely Yours</span>
+                <span className="about-me">Discover, Engage, Connect Our Media Experience</span>
               </div>
               <div className="bottom-bottom">
                 <div className="social-links-container">
