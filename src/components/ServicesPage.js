@@ -36,7 +36,7 @@ const services = [
 
 const ServicesPage = () => {
   return (
-    <div className="container mx-auto mt-10">
+    <div id="services" className="container mx-auto mt-10">
       {services.map((service, index) => (
         <Service
           key={service.number}
