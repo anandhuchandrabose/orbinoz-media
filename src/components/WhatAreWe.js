@@ -24,7 +24,7 @@ const WhatAreWe = () => {
   }, [inView]);
 
   return (
-    <section ref={ref} className="flex flex-col justify-center items-center min-h-[60vh] text-gray-800 mx-4 sm:mx-8 md:mx-24 p-4 sm:p-8">
+    <section id="about" ref={ref} className="flex flex-col justify-center items-center min-h-[60vh] text-gray-800 mx-4 sm:mx-8 md:mx-24 p-4 sm:p-8">
       <div className="flex flex-col md:flex-row items-center md:items-start md:justify-center w-full">
         <div className="flex flex-col justify-center items-start md:w-2/3 p-4">
           <h2 className="text-3xl sm:text-4xl md:text-5xl text-center font-bold mb-4">What Are We</h2>
